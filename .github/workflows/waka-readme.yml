@@ -39,7 +39,7 @@ jobs:
           COMMIT_EMAIL: "your-email@example.com"   # 使用您的 GitHub 电子邮件
 
           # 区域配置：修改显示语言和时间格式
-          LOCALE: "en"                            # 本地化设置（如 'zh' 适用于中文）
+          LOCALE: "zh"                            # 本地化设置（如 'zh' 适用于中文）
           UPDATED_DATE_FORMAT: "YYYY-MM-DD"       # 更新日期格式
 
           # 调试设置：可用于问题排查
