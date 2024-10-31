@@ -2,7 +2,7 @@ name: WakaTime Stats Update
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小时更新一次，可根据需要调整
+    - cron: '0 16 * * *' # 每小时更新一次，可根据需要调整
   workflow_dispatch:
 
 jobs:
