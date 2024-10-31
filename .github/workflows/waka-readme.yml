@@ -29,10 +29,10 @@ jobs:
           SHOW_DAYS_OF_WEEK: "true"               # 显示一周中每天的活动
           SHOW_PROFILE_VIEWS: "false"             # 显示个人资料浏览量
           SHOW_SHORT_INFO: "true"                 # 精简信息展示
-          SHOW_UPDATED_DATE: "false"               # 显示最后更新日期
+          SHOW_UPDATED_DATE: "true"               # 显示最后更新日期
           SHOW_TOTAL_CODE_TIME: "true"            # 显示总代码时间
           
-          COMMIT_MESSAGE: "Update WakaTime Stats on $(date +'%Y-%m-%d %H:%M:%S %Z')"
+          # COMMIT_MESSAGE: "Update WakaTime Stats on $(date +'%Y-%m-%d %H:%M:%S %Z')"
           # 提交配置：美化 Git 提交信息
           COMMIT_BY_ME: "true"                    # 提交者显示为自己
           COMMIT_MESSAGE: "WakaTime Stats Update 🌟" # 自定义提交信息
