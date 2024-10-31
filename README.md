@@ -1,4 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOTH0626)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3D&lines=std%3A%3Aprintln(%22Hello,+world!%22);" alt="Typing SVG" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOTH0626&theme=transparent)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
