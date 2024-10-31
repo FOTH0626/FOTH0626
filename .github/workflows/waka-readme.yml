@@ -16,6 +16,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TIMEZONE: "true"             # 可选，显示时区
           SHOW_EDITORS: "true"              # 可选，显示编辑器数据
           SHOW_OS: "true"                   # 可选，显示操作系统数据
