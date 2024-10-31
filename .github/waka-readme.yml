@@ -24,3 +24,4 @@ jobs:
           SHOW_LOC_CHART: "true"            # 可选，显示代码行数统计图表
           SHOW_DAYS_OF_WEEK: "true"         # 可选，显示一周中每天的活动
           SHOW_PROFILE_VIEWS: "false"       # 可选，显示个人资料浏览量
+          # update
