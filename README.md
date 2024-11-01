@@ -13,11 +13,11 @@
 - 💻BTW, I use Arch Linux
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.9 kB Used in GitHub's Storage 
+> 📦 13.0 kB Used in GitHub's Storage 
  > 
 > 🏆 91 Contributions in the Year 2024
  > 
