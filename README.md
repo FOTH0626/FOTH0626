@@ -13,6 +13,8 @@
 - 💻BTW, I use Arch Linux
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%201%20min-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 162.8 kB Used in GitHub's Storage 
@@ -25,6 +27,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+🌆 Daytime                127 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌃 Evening                249 commits         ███████████████░░░░░░░░░░   58.18 % 
+🌙 Night                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Tuesday                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Wednesday                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
