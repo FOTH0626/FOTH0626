@@ -10,7 +10,7 @@
 - 📖Most language I use : C++ and GLSL ( both beginner )
 - ❤What I'm learning : C++, Computer Graphics(Rendering mostly), OpenGL, Unreal Engine
 - 🎮What game I play ： Sekiro, Blackmyth ：Wukong, and a lot other game.
-- 💻BTW, I use Arch Linux
+- 💻BTW, I use Arch Linux ( Windows used too )
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%201%20min-blue)
