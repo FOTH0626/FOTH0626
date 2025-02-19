@@ -13,7 +13,7 @@
 - 💻BTW, I use Arch Linux ( Windows used too )
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,16 +54,21 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     8 mins              ████████████░░░░░░░░░░░░░   46.58 % 
+TeX                      5 mins              ████████░░░░░░░░░░░░░░░░░   30.69 % 
+Markdown                 4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+OpenEdge ABL             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ZZZ                      12 mins             █████████████████░░░░░░░░   69.03 % 
+Resume                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Ali-loner.github.io-maste2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 
