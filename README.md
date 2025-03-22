@@ -13,7 +13,7 @@
 - 💻BTW, I use Arch Linux ( Windows used too )
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,16 +54,17 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Singularity              5 mins              ███████████████████████░░   90.32 % 
+TeX                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thegibook-master         5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
