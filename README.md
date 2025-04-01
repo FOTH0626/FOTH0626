@@ -8,9 +8,8 @@
 
 - 😉Who am I : A member of NJUPT-SAST and the head of 2024 Graphics group (only me btw)
 - 📖Most language I use : C++ and GLSL ( both beginner )
-- ❤What I'm learning : C++, Computer Graphics(Rendering mostly), OpenGL, Unreal Engine
-- 🎮What game I play ： Sekiro, Blackmyth ：Wukong, and a lot other game.
-- 💻BTW, I use Arch Linux ( Windows used too )
+- ❤What I'm learning : C++, Computer Graphics(Rendering mostly), OpenGL, Game Engine.
+- 💻BTW, I use Arch Linux ( Windows also )
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2040%20mins-blue)
