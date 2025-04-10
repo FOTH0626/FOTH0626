@@ -12,7 +12,7 @@
 - 💻BTW, I use Arch Linux ( Windows also )
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,16 +53,16 @@ Sunday                   61 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eagle                    23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
