@@ -53,17 +53,16 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      16 mins             █████████████████████████   99.39 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fothCppSTL               17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
