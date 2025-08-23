@@ -18,8 +18,6 @@
 
 > 📦 253.4 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -53,16 +51,16 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eagle                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
