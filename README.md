@@ -12,8 +12,6 @@
 - 💻BTW, I use Arch Linux ( Windows also )
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2025%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 256.7 kB Used in GitHub's Storage 
