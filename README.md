@@ -6,10 +6,33 @@
 
 ---
 
-- 😉Who am I : A member of NJUPT-SAST and the head of 2024 Graphics group (only me btw)
-- 📖Most language I use : C++ and GLSL ( both beginner )
-- ❤What I'm learning : C++, Computer Graphics(Rendering mostly), OpenGL, Game Engine.
-- 💻BTW, I use Arch Linux ( Windows also )
+Why not take a look on my Blog ? : [FOTH0626](https://www.foth.top)  
+
+Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix generated in a Gacha Game Arknights, for avoiding same name.  
+
+---
+- 😉Who am I :
+  - A member of [NJUPT-SAST](https://github.com/NJUPT-SAST) and the head of 2024 Graphics Group,
+  - also, I am a member of [HUAYE STUDIO](https://github.com/HuaYe-Studio), a game development club.
+- 📖Most language I use :
+  -  C++
+  -  C# in Unity
+  -  HLSL
+- ❤What I'm learning :
+  - C++ development system ( C++ syntax, STL, Cmake... but all not learn good enough).
+  - Computer Graphics(Rendering and CelShading mostly, RECENTLY I focus on how to manage game engine's rendering pipeline in a EASY way).
+- My Devices :
+  - A Fedora Linux Laptop.
+  - A Windows PC.
+- My interests :
+  - Reading(Sci-fi, Philosophy(Existentialism), Light Novel, Detective, Programming......)
+  - Anime
+    - I use [Seanime](https://github.com/5rahim/seanime) to play bangumis and record.
+    - You can watch my activity on [Anilist](https://anilist.co/user/foth0626).
+  - Game
+    - Gacha : Hoyoverse's Games mostly(GI,HSR,ZZZ).
+    - Steam : [FOTH0626](https://steamcommunity.com/id/Foth0626/)
+  
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2042%20mins-blue)
