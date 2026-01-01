@@ -41,7 +41,7 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
