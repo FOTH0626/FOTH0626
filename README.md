@@ -35,6 +35,8 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2021%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 230.6 kB Used in GitHub's Storage 
