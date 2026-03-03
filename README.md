@@ -37,16 +37,55 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 230.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+🌆 Daytime                58 commits          ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                135 commits         ███████████████░░░░░░░░░░   60.27 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   52 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Tuesday                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
