@@ -35,7 +35,7 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,16 +76,23 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       16 mins             ███████████████░░░░░░░░░░   59.08 % 
+Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+UnityYaml                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+ShaderLab                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+unity-daynight-system-mas12 mins             ███████████░░░░░░░░░░░░░░   44.90 % 
+WeatherSystem            10 mins             █████████░░░░░░░░░░░░░░░░   37.80 % 
+Unity-NorthStar          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 
