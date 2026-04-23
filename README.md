@@ -35,7 +35,7 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,16 +76,20 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       3 hrs 28 mins       █████████████████░░░░░░░░   68.12 % 
+ShaderLab                44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+GLSL                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    5 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CustomPostProcessing     5 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
