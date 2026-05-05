@@ -76,17 +76,16 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       9 mins              ██████████████████████░░░   89.84 % 
-ShaderLab                1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CustomPostProcessing     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
