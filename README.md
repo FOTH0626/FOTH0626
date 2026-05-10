@@ -35,7 +35,7 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,16 +76,21 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+USH                      51 mins             ████████░░░░░░░░░░░░░░░░░   33.87 % 
+USF                      39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+C++                      30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    2 hrs 4 mins        ████████████████████░░░░░   81.82 % 
+Unknown Editor           27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UnrealEngine             2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
