@@ -49,51 +49,6 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                72 commits          ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌃 Evening                158 commits         ███████████████░░░░░░░░░░   60.31 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Thursday                 37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-USH                      51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-USF                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-C++                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-
-🔥 Editors: 
-Rider                    2 hrs 4 mins        ███████████████░░░░░░░░░░   59.33 % 
-Unknown Editor           1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-
-🐱‍💻 Projects: 
-UnrealEngine             3 hrs 21 mins       ████████████████████████░   95.89 % 
-UE5                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-
-💻 Operating System: 
-Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
