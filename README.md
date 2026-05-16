@@ -35,6 +35,8 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2053%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 249.7 kB Used in GitHub's Storage 
@@ -47,6 +49,51 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+🌆 Daytime                72 commits          ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌃 Evening                158 commits         ███████████████░░░░░░░░░░   60.31 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Thursday                 37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+USH                      51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Other                    49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+USF                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+C++                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+
+🔥 Editors: 
+Rider                    2 hrs 4 mins        ███████████████░░░░░░░░░░   59.01 % 
+Unknown Editor           1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
+
+🐱‍💻 Projects: 
+UnrealEngine             3 hrs 22 mins       ████████████████████████░   95.91 % 
+UE5                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+
+💻 Operating System: 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
