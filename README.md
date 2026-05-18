@@ -35,13 +35,11 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2053%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 249.7 kB Used in GitHub's Storage 
+> 📦 250.4 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2026
+> 🏆 61 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,47 +47,6 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                72 commits          ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌃 Evening                158 commits         ███████████████░░░░░░░░░░   60.31 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Thursday                 37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    35 mins             ███████████████░░░░░░░░░░   60.52 % 
-Markdown                 22 mins             ██████████░░░░░░░░░░░░░░░   39.48 % 
-
-🔥 Editors: 
-Unknown Editor           57 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-UnrealEngine             49 mins             █████████████████████░░░░   85.04 % 
-UE5                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-
-💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
-```
-
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
