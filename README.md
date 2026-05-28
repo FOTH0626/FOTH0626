@@ -35,8 +35,6 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2037%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 250.4 kB Used in GitHub's Storage 
@@ -49,51 +47,6 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-🌆 Daytime                78 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-🌃 Evening                178 commits         ███████████████░░░░░░░░░░   61.81 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   44.99 % 
-Typst                    23 mins             ███████████░░░░░░░░░░░░░░   43.61 % 
-ShaderLab                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-C#                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-HLSL                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-
-🔥 Editors: 
-Claude Code              46 mins             ██████████████████████░░░   86.71 % 
-Rider                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-
-🐱‍💻 Projects: 
-nvpro_core2              41 mins             ███████████████████░░░░░░   76.49 % 
-TodSystem                12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-
-💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
-```
-
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
