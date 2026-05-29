@@ -35,9 +35,11 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2053%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 250.4 kB Used in GitHub's Storage 
+> 📦 250.5 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -47,6 +49,54 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                78 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌃 Evening                178 commits         ███████████████░░░░░░░░░░   61.81 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr 3 mins         ████████████░░░░░░░░░░░░░   49.16 % 
+Typst                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+C#                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+PlantUML                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+
+🔥 Editors: 
+Unknown Editor           1 hr 49 mins        █████████████████████░░░░   84.34 % 
+Rider                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+
+🐱‍💻 Projects: 
+TodSystem                52 mins             ██████████░░░░░░░░░░░░░░░   40.27 % 
+nvpro_core2              41 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+毕设                       30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+参考                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+评价                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+
+💻 Operating System: 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
