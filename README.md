@@ -49,54 +49,6 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-🌆 Daytime                78 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-🌃 Evening                178 commits         ███████████████░░░░░░░░░░   61.81 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 26 mins             ██████████░░░░░░░░░░░░░░░   38.49 % 
-Typst                    23 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-C#                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-
-🔥 Editors: 
-Unknown Editor           1 hr 4 mins         ███████████████████████░░   92.79 % 
-Rider                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-🐱‍💻 Projects: 
-nvpro_core2              41 mins             ███████████████░░░░░░░░░░   59.38 % 
-TodSystem                16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-毕设                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-参考                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-评价                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-
-💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
-```
-
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
