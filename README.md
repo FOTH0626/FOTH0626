@@ -35,6 +35,8 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
   
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2053%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 250.5 kB Used in GitHub's Storage 
@@ -47,6 +49,45 @@ Why I have a 0626 tail? : FOTH is named when I sign up, so I add a suffix genera
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                78 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌃 Evening                178 commits         ███████████████░░░░░░░░░░   61.81 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Thursday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
  Last Updated on YYYY-MM-DD UTC
 <!--END_SECTION:waka-->
